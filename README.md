@@ -48,8 +48,6 @@ class CarAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 Include the screenshot of your admin page.
-<img width="1920" height="1080" alt="Screenshot 2025-09-21 101111" src="https://github.com/user-attachments/assets/62e22e90-da9a-4ab2-9865-753c17f30e91" />
-
-
+<img width="1920" height="1080" alt="Screenshot 2025-09-21 103806" src="https://github.com/user-attachments/assets/fe9b9f0b-37c7-4d6e-bd4e-47ce2595e755" />
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
